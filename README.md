@@ -17,5 +17,6 @@
 
 ## Usage
 ### Answer all the questions when prompted and you should end up with a invoice in a text file as well as your invoice on the console. You can go back and check your order by view your tables as well selecting 1 in the begining of the application and input your invoice number. You're order will display on the console. Below are a few examples of how it works:
-https://github.com/ThundroD/QuickFoodMS/blob/main/QuickFoodMS%20IMG/Create%20Order.png
+![Creating a New Order](https://github.com/ThundroD/QuickFoodMS/blob/main/QuickFoodMS%20IMG/Create%20Order.png)
+
 
