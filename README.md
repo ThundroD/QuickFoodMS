@@ -37,7 +37,7 @@
 ![Logging out](https://github.com/ThundroD/QuickFoodMS/blob/main/QuickFoodMS%20IMG/Customer%20Table.png)
 
 ### For reference below is the EER diagram of how the database is set up
-![Logging out](https://github.com/ThundroD/QuickFoodMS/blob/main/QuickFoodMS%20IMG/QuickFoodMS_EER_Diagram.png)
+![Logging out](https://github.com/ThundroD/QuickFoodMS/blob/main/QuickFoodMS%20IMG/newQuickFoodEER.png)
 
 ## Credits
 
