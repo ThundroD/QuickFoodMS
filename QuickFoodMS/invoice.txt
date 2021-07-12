@@ -1,0 +1,20 @@
+Order number 106533
+Customer: Daniel Montague
+Email: daniel@mail.com
+Phone number: 123-123-1234
+Location: Cape Town
+
+You have ordered the following from Aesop's Pizza in Cape Town: 
+
+1 x Pepperoni Pizza R89.99
+ 
+ 
+
+Special Instructions: Add extra cheese please!
+
+Total: R89.99
+
+Aaron Neville is nearest to the restaurant and so s/he will be delivering your order to you at:
+123 Main St
+
+If you need to contact Aesop's Pizza, their number is 088-738-9274.

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"quickFoodMS","l":"Customer"},{"p":"quickFoodMS","l":"Driver"},{"p":"quickFoodMS","l":"Functions"},{"p":"quickFoodMS","l":"Invoice"},{"p":"quickFoodMS","l":"Main"},{"p":"quickFoodMS","l":"Menu"},{"p":"quickFoodMS","l":"Restaurants"}];updateSearchResults();
